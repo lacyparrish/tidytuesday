@@ -1,0 +1,638 @@
+year,gnis_id,geometry,metadata,number_of_records,parkname,region,state,unit_code,unit_name,unit_type,visitors
+1941,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,895874
+1955,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,264500
+1976,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,21000
+1941,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,79049
+1931,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,154000
+1974,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,19400
+1936,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,4158
+1934,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,17010
+1937,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,6043
+Total,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,871922828
+Total,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,105764049
+Total,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,14391636
+Total,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,17823602
+Total,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,521947058
+Total,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,2148109
+Total,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,3311344
+Total,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,27109570
+Total,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,22470450
+2016,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,15175578
+2016,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2411711
+2016,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,458000
+2016,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,292367
+2016,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,11312786
+2016,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,80696
+2016,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,83889
+2016,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,458776
+2016,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,321796
+2015,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,15054603
+2015,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2274635
+2015,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,400413
+2015,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,289885
+2015,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,10712674
+2015,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,72606
+2015,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,89944
+2015,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,437184
+2015,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,222602
+2014,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,13941749
+2014,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2153350
+2014,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,430927
+2014,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,264987
+2014,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,10099276
+2014,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,82377
+2014,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,87774
+2014,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,430517
+2014,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,173261
+2013,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,12877368
+2013,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2214565
+2013,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,416568
+2013,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,263598
+2013,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9354695
+2013,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,81710
+2013,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,72330
+2013,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,447796
+2013,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,541581
+2012,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,15205059
+2012,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2302040
+2012,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,480294
+2012,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,281833
+2012,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9685829
+2012,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,93429
+2012,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,79345
+2012,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,466816
+2012,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,313374
+2011,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,15382447
+2011,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1960711
+2011,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,508116
+2011,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,282134
+2011,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9008830
+2011,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,89721
+2011,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,58118
+2011,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,445455
+2011,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,346617
+2010,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,14517118
+2010,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2193292
+2010,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,530181
+2010,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,305711
+2010,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9463538
+2010,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,86740
+2010,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,51326
+2010,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,476200
+2010,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,285444
+2009,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,15936316
+2009,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2282543
+2009,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,601954
+2009,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,338212
+2009,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9491437
+2009,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,83550
+2009,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,68864
+2009,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,476291
+2009,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,290368
+2008,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,16309307
+2008,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2146392
+2008,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,486899
+2008,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,311751
+2008,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9044010
+2008,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,21233
+2008,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,44820
+2008,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,527721
+2008,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,354077
+2007,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,17352286
+2007,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2237378
+2007,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,860602
+2007,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,321717
+2007,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9372253
+2007,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,28820
+2007,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,55039
+2007,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,494331
+2007,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,445752
+2006,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,18953478
+2006,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2125005
+2006,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,803155
+2006,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,299432
+2006,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9289215
+2006,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,28799
+2006,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,44378
+2006,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,466144
+2006,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,486162
+2005,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,17882567
+2005,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2260628
+2005,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,692857
+2005,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,276071
+2005,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9192477
+2005,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,26640
+2005,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,48406
+2005,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,458948
+2005,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,497193
+2004,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,17999116
+2004,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2208189
+2004,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,720216
+2004,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,270050
+2004,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9167046
+2004,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,28372
+2004,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,60676
+2004,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,421341
+2004,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,277484
+2003,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,18344051
+2003,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2660535
+2003,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,704480
+2003,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,177263
+2003,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9366845
+2003,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,32570
+2003,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,67272
+2003,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,712181
+2003,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,530756
+2002,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,21538760
+2002,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2923894
+2002,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,610337
+2002,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,278565
+2002,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9316420
+2002,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,38052
+2002,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,86782
+2002,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,440737
+2002,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,762412
+2001,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,19969587
+2001,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2592889
+2001,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,625387
+2001,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,267464
+2001,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9197697
+2001,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,34769
+2001,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,88320
+2001,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,438548
+2001,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,858125
+2000,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,19153081
+2000,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2647383
+2000,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,446148
+2000,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,244750
+2000,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,10175812
+2000,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,35240
+2000,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,89872
+2000,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,429472
+2000,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,822948
+1999,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,19836842
+1999,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2634587
+1999,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,553243
+1999,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,305305
+1999,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,10283598
+1999,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,36442
+1999,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,81574
+1999,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,375681
+1999,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,740024
+1998,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,19026498
+1998,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2737640
+1998,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,357443
+1998,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,357928
+1998,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9989395
+1998,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,37911
+1998,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,52210
+1998,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,419210
+1998,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,753943
+1997,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,18373279
+1997,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2515057
+1997,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,374893
+1997,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,354977
+1997,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9965075
+1997,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,41402
+1997,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,47139
+1997,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,425132
+1997,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,663904
+1996,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,17169062
+1996,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2355580
+1996,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,379370
+1996,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,308348
+1996,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9265667
+1996,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,42879
+1996,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,58516
+1996,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,393721
+1996,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,614766
+1995,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,17415519
+1995,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2384388
+1995,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,348390
+1995,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,288674
+1995,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9080420
+1995,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,48634
+1995,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,57706
+1995,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,434671
+1995,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,230513
+1994,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,16928639
+1994,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2383684
+1994,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,257940
+1994,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,324179
+1994,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8628174
+1994,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,54478
+1994,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,70225
+1994,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,475755
+1994,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,212986
+1993,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,17889335
+1993,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2259889
+1993,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,294085
+1993,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,327450
+1993,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9283848
+1993,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,56992
+1993,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,58215
+1993,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,477362
+1993,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,188272
+1992,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,17561391
+1992,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2047103
+1992,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,335281
+1992,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,289361
+1992,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8931690
+1992,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,54941
+1992,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,64958
+1992,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,477643
+1992,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,203723
+1991,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,16414294
+1991,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2098930
+1991,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,320161
+1991,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,282468
+1991,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8654459
+1991,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,65157
+1991,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,68511
+1991,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,461494
+1991,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,199587
+1990,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,16854602
+1990,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2072715
+1990,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,283074
+1990,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,289411
+1990,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8151769
+1990,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,54568
+1990,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,51640
+1990,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,463461
+1990,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,189013
+1989,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,16176171
+1989,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,2097991
+1989,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,232644
+1989,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,279977
+1989,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8333553
+1989,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,55435
+1989,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,46260
+1989,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,472894
+1989,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,132553
+1988,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,20002975
+1988,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1929713
+1988,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,100444
+1988,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,287379
+1988,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8770781
+1988,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,57863
+1988,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,49020
+1988,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,328617
+1988,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,170880
+1987,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,18604627
+1987,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1629277
+1987,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,88898
+1987,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,282944
+1987,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,10209841
+1987,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,55196
+1987,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,41026
+1987,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,315957
+1987,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,149971
+1986,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,17076150
+1986,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1535913
+1986,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,95575
+1986,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,259622
+1986,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9836306
+1986,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,61346
+1986,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,45821
+1986,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,630779
+1986,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,171010
+1985,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,17193408
+1985,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1224687
+1985,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,100380
+1985,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,272832
+1985,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9319290
+1985,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,53689
+1985,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,43908
+1985,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,448677
+1985,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,179278
+1984,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,15135991
+1984,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1396076
+1984,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,86279
+1984,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,389893
+1984,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8508390
+1984,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,48756
+1984,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,32715
+1984,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,409493
+1984,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,204413
+1983,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,15208455
+1983,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1685628
+1983,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,68000
+1983,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,359761
+1983,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8435475
+1983,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,46673
+1983,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,39532
+1983,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,484289
+1983,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,161504
+1982,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,14360184
+1982,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1698543
+1982,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,62653
+1982,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,300353
+1982,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8177869
+1982,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,50216
+1982,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,50192
+1982,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,415360
+1982,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,219540
+1981,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,13625753
+1981,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1634592
+1981,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,51957
+1981,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,299252
+1981,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8312884
+1981,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,44059
+1981,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,45059
+1981,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,429618
+1981,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,220944
+1980,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,13415014
+1980,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1510237
+1980,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,64959
+1980,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,350464
+1980,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8440953
+1980,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,37160
+1980,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,41793
+1980,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,428809
+1980,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,156754
+1979,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,11700219
+1979,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1516879
+1979,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,50106
+1979,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,305153
+1979,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8019788
+1979,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,34062
+1979,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,44272
+1979,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,396322
+1979,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,161485
+1978,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,12687360
+1978,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1799894
+1978,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,50727
+1978,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,345624
+1978,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8695534
+1978,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,39126
+1978,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,56967
+1978,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,481140
+1978,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,188262
+1977,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,12482100
+1977,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1786500
+1977,1000889,POLYGON,NA,1,NA,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,37600
+1977,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,375700
+1977,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,9173600
+1977,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,38200
+1977,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,56200
+1977,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,535000
+1977,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,105700
+1976,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,12665800
+1976,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1579100
+1976,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,335400
+1976,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8991500
+1976,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,38000
+1976,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,71100
+1976,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,505000
+1976,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,139600
+1975,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,11806900
+1975,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1572400
+1975,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,347800
+1975,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8541500
+1975,1006677,POLYGON,http://nrdata.nps.gov/programs/Lands/CARL_metadata.xml,1,Carl Sandburg Home,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,30200
+1975,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,49000
+1975,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,485200
+1975,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,91800
+1974,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,11383600
+1974,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1510700
+1974,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,336100
+1974,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,7807800
+1974,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,42900
+1974,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,472700
+1974,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,570500
+1973,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,11423900
+1973,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1502400
+1973,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,305300
+1973,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,7586300
+1973,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,37600
+1973,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,413600
+1973,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,698900
+1972,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,11018285
+1972,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1577406
+1972,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,322996
+1972,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,8034753
+1972,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,42241
+1972,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,423725
+1972,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,650010
+1971,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,10404800
+1971,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1490300
+1971,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,325200
+1971,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,7173000
+1971,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,52500
+1971,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,392300
+1971,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,636700
+1970,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,12789700
+1970,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1227100
+1970,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,287400
+1970,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,6778500
+1970,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,44100
+1970,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,489400
+1970,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,518300
+1969,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,11865100
+1969,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1142400
+1969,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,215500
+1969,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,6331100
+1969,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,37500
+1969,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,324900
+1969,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,446200
+1968,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,11140700
+1968,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1094000
+1968,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,234800
+1968,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,6667100
+1968,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,35400
+1968,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,310400
+1968,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,479400
+1967,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,9250600
+1967,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,997400
+1967,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,256500
+1967,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,6710100
+1967,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,33500
+1967,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,340000
+1967,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,478000
+1966,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,8011600
+1966,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1133000
+1966,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,321300
+1966,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,6466100
+1966,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,33800
+1966,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,370900
+1966,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,449500
+1965,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,7997400
+1965,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1089300
+1965,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,176700
+1965,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,5954900
+1965,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,31900
+1965,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,302700
+1965,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,564900
+1964,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,7001100
+1964,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,1070500
+1964,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,145500
+1964,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,5321100
+1964,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,28000
+1964,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,296800
+1964,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,485000
+1963,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,7233900
+1963,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,873300
+1963,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,136700
+1963,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,5258700
+1963,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,27100
+1963,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,249700
+1963,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,470600
+1962,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,6507300
+1962,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,649300
+1962,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,110600
+1962,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,5209800
+1962,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,25700
+1962,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,223600
+1962,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,459200
+1961,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,6047600
+1961,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,547300
+1961,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,102800
+1961,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,4762100
+1961,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,20600
+1961,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,257100
+1961,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,452300
+1960,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,5503200
+1960,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,467300
+1960,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,90800
+1960,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,4528600
+1960,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,24400
+1960,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,237600
+1960,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,293800
+1959,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,5589400
+1959,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,471500
+1959,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,99100
+1959,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,3162300
+1959,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,31200
+1959,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,197900
+1959,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,57600
+1958,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,4989100
+1958,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,348300
+1958,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,86100
+1958,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,3168900
+1958,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,30000
+1958,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,241100
+1958,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,52000
+1957,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,5048200
+1957,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,324200
+1957,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,99300
+1957,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,2943700
+1957,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,28100
+1957,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,327900
+1957,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,46500
+1956,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,5022900
+1956,982628,MULTIPOLYGON,NA,1,NA,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,301700
+1956,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,122200
+1956,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,2885800
+1956,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,26200
+1956,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,305500
+1956,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,44300
+1955,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,4502200
+1955,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,90000
+1955,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,2581500
+1955,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,22600
+1955,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,184600
+1955,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,33800
+1954,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,4344900
+1954,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,115700
+1954,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,2526900
+1954,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,21700
+1954,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,184500
+1954,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,41100
+1953,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,4266975
+1953,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,166385
+1953,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,2250772
+1953,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,18864
+1953,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,184328
+1953,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,41212
+1952,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,3558139
+1952,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,152032
+1952,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,2322152
+1952,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,18194
+1952,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,153072
+1952,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,45588
+1951,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,2448745
+1951,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,141815
+1951,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,1945100
+1951,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,18121
+1951,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,113324
+1951,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,42958
+1950,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,1996435
+1950,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,135669
+1950,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,1843620
+1950,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,12738
+1950,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,111116
+1950,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,44828
+1949,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,1422316
+1949,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,128686
+1949,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,1539641
+1949,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,9032
+1949,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,86327
+1949,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,40602
+1948,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,1509808
+1948,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,102170
+1948,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,1469749
+1948,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,4974
+1948,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,72984
+1948,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,31374
+1947,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,1246564
+1947,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,104525
+1947,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,1204017
+1947,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,3818
+1947,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,77739
+1947,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,38310
+1946,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,1261769
+1946,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,107294
+1946,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,1157930
+1946,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,4031
+1946,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,49512
+1946,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,34060
+1945,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,382943
+1945,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,15496
+1945,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,750690
+1945,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,3501
+1945,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,15439
+1945,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,23268
+1944,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,268324
+1944,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,7851
+1944,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,534586
+1944,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,3342
+1944,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,8592
+1944,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,17912
+1943,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,130603
+1943,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,9014
+1943,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,383116
+1943,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,5774
+1943,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,11054
+1943,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,6124
+1942,1009494,MULTIPOLYGON,NA,1,NA,NT,NC,BLRI,Blue Ridge Parkway,Parkway,255809
+1942,985324,POLYGON,NA,1,NA,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,6975
+1942,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,728706
+1942,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,2700
+1942,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,11319
+1942,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,6469
+1941,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,1310101
+1941,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,4359
+1941,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,86025
+1941,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,54115
+1940,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,860960
+1940,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,3722
+1940,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,54729
+1940,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,49136
+1939,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,761567
+1939,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,5185
+1939,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,70071
+1939,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,45544
+1938,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,694634
+1938,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,6218
+1938,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,80911
+1938,986193,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/GUCO_metadata.xml,1,Guilford Courthouse,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,33920
+1937,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,727243
+1937,1025558,POLYGON,http://nrdata.nps.gov/programs/Lands/MOCR_metadata.xml,1,Moores Creek,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,4858
+1937,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,82188
+1936,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,602222
+1936,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,48690
+1935,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,500000
+1935,1027483,MULTIPOLYGON,http://nrdata.nps.gov/programs/Lands/WRBR_metadata.xml,1,Wright Brothers,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,28472
+1934,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,420000
+1933,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,375000
+1932,1018241,MULTIPOLYGON,NA,1,NA,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,300000
